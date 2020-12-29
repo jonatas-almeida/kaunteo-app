@@ -10,8 +10,8 @@ import { AppComponent } from './app.component';
 import { AppRoutingModule } from './app-routing.module';
 
 //Components
-import { LoginPageModule } from './components/login/login.module.ts';
-import { RegisterPageModule } from './components/register/register.module.ts';
+import { LoginPageModule } from './components/login/login.module';
+import { RegisterPageModule } from './components/register/register.module';
 
 
 @NgModule({

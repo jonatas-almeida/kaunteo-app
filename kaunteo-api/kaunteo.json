@@ -1,0 +1,25 @@
+{
+  "despesa": [
+      {
+        "id": 1,
+        "nomeDespesa": "Conta de Luz",
+        "status": "Pendente",
+        "valor": "180",
+        "dataVencimento": "10/04/2021"
+      },
+      {
+        "id": 2,
+        "nomeDespesa": "Cartão de Crédito",
+        "status": "Pago",
+        "valor": "1200",
+        "dataVencimento": "05/03/2020"
+      },
+      {
+        "id": 3,
+        "nomeDespesa": "Compras do Mês",
+        "status": "Atrasada",
+        "valor": "380",
+        "dataVencimento": "09/05/2019"
+      }
+    ]
+}
